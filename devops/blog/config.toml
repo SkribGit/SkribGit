@@ -1,0 +1,16 @@
+theme = "kiera"
+baseURL = "https://www.skribgit.com/devops/blog"
+
+pygmentsCodeFences = true
+
+disqusShortname = "" #Disqus shortname
+googleAnalytics = "" #Google Analytics ID
+
+[author]
+    name = "Radamanthus Batnag"   #Author name
+    github = "radamanthus"        #Github username
+    linkedin = "radamanthus"      #LinkedIn username
+    twitter = "radamanthus"       #Twitter username
+
+[params]
+    tagline = "Live by Design. Work by Design."
