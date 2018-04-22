@@ -1,5 +1,5 @@
 theme = "kiera"
-baseURL = "https://www.skribgit.com/devops/blog"
+baseURL = "https://www.skribgit.com/devops/blog/"
 
 pygmentsCodeFences = true
 
