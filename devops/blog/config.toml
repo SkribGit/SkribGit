@@ -1,16 +1,23 @@
+baseurl = "https://www.skribgit.com/devops/blog/"
+title = "SkribGit, Inc. Live By Design. Work By Design."
+copyright = "Copyright &copy; 2018 - SkribGit, Inc."
+canonifyurls = true
 theme = "kiera"
-baseURL = "https://www.skribgit.com/devops/blog/"
 
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
 pygmentsCodeFences = true
 
-disqusShortname = "" #Disqus shortname
-googleAnalytics = "" #Google Analytics ID
-
 [author]
-    name = "Radamanthus Batnag"   #Author name
-    github = "radamanthus"        #Github username
-    linkedin = "radamanthus"      #LinkedIn username
-    twitter = "radamanthus"       #Twitter username
+    name = "Radamanthus Batnag"
+    github = "radamanthus"
+    linkedin = "radamanthus"
+    twitter = "radamanthus"
 
 [params]
-    tagline = "Live by Design. Work by Design."
+    tagline = "Live By Design. Work By Design."
+
+
+
