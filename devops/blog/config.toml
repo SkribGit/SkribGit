@@ -1,4 +1,4 @@
 baseURL = "http://www.skribgit.com/devops/blog/"
 languageCode = "en-us"
-title = "SkribGit. Live By Design. Work By Design."
+title = "SkribGit DevOps Blog"
 theme = "ananke"
