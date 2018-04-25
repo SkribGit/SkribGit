@@ -1,3 +1,0 @@
-[submodule "devops/blog/themes/kiera"]
-	path = devops/blog/themes/kiera
-	url = https://github.com/avianto/hugo-kiera.git
