@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.skribgit.com/devops/blog/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "SkribGit. Live By Design. Work By Design."
 theme = "ananke"
