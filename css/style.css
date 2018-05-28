@@ -2721,6 +2721,14 @@ opacity: 0.7;
   transition:.3s;
 }
 
+/* blog paragraphs */
+.page-section-light-blog {
+  background-size:cover;
+  background:#fff;
+  padding-top:62px;
+  text-align:justify;
+}
+
 /* -- page-section-light section -- */
 .page-section-light {
   background-size:cover;
